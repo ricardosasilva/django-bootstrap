@@ -1,7 +1,7 @@
 # Django settings for moloko project.
 
 ADMINS = (
-    ('Ricardo Silva', 'ricardo@moloko.com.br'),
+    ('Ricardo Silva', 'ricardo@blablabal'),
 )
 
 MANAGERS = ADMINS
@@ -38,7 +38,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'g6ge2d324&b2vq3xo1l#w8o6x#r^vd^_ryl#5l_)gj_&&3=0dj'
+SECRET_KEY = '<CHANGE THIS !!!!!>'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
